@@ -1,27 +1,21 @@
----
-output:
-  pdf_document: default
-  html_document:
-    theme: readable
----
-
-
-# Parr 1241 Oxygen Bomb Calorimeter
-
+Parr 1241 Oxygen Bomb Calorimeter
+--------
 AF | 2018-08-22
 
-*If you encounter problems while running the instrument, please submit an [**Instrument Incident Report**](https://docs.google.com/forms/d/e/1FAIpQLSc96MiK73kKP06KEZpR0-O7zETCLvWgQtLp_bKEynosUKqpNg/viewform) with a description of your problem.  Please report urgent issues to Al Fischer, NS 209, dfischer@wcu.edu, x2695!*
+*The calorimeter is located in NS 226*
+
+> If you encounter problems while running the instrument, please use submit an [**Instrument Incident Report**](https://docs.google.com/forms/d/e/1FAIpQLSc96MiK73kKP06KEZpR0-O7zETCLvWgQtLp_bKEynosUKqpNg/viewform) with a description of your problem.  **For urgent problems please report to Al Fischer, NS 209, dfischer@wcu.edu, x2695!**
 
 # Preparing the Bomb
 
-*Note: This procedure works for benzoic acid tablets and ethylene glycol.  Other samples may require slightly different preparation or bomb conditions. Please consult with the Instrumentation Specialist and/or your faculty advisor before making adjustments.*
+> Note: This procedure works for benzoic acid tablets and ethylene glycol.  Other samples may require slightly different preparation or bomb conditions. Please consult with the Instrumentation Specialist and/or your faculty advisor before makeing adjustments.
 
 ## Remove the bomb
 1. Raise the post on the top front of the instrument by pulling the round black knob and lifting.  Stop when it clicks into place.
 1. Ensure the stirrer has raised with the post and then rotate the lever on the back of the caolorimeter's lid.
-1. Turn the lid counter-clockwise to expose the bomb, disconnect the wire leads from the bomb, and remove the bomb from the pail.
+1. Turn the lid counter-clockwise to expose the bomb, disconnect the wire leads from the bomb, and remove the bomb from it pail.
 
-> ***Always assume the bomb is pressurized and always wear impact goggles when handling it.***
+> Always assume the bomb is pressurized and always wear impact goggles when handling it.
 
 1. *Slowly* crack open the pressure relief valve on the top of the bomb by turning the knurled metal knob counter-clockwise and wait until the pressure has been released.
 1. Unscrew the metal ring that holds the lid on and remove the lid from the bomb.  Place the lid in the stand holder for sample loading.
@@ -33,6 +27,7 @@ AF | 2018-08-22
 1. Place the sample cup (with sample) into the holder on the lid.
 1. Attach the fuse wire to the two leads on the lid.  Attach the wire so that it is ~ 1mm above your sample *but not touching the sample or any other part of the bomb*.
 1. Reassemble the bomb *gently* so as not to disturb your sample.  The ring that holds the lid on should be "hand-tight".
+%%%%% 1. You may add 1 mL of deionized water to the bomb chamber as a sequestering agent if necessary for you procedure.
 
 ## Charge the bomb
 1. Close the release valve on the bomb.
@@ -69,14 +64,13 @@ AF | 2018-08-22
 1. If dry, re-assemble all components and place them back in the calorimeter.
 
 # Precautions
-- Always wear safety goggles.
-- Do not overcharge the bomb: The sample should never release more than 8000 calories when burned in oxygen (always start with < 0.7 g of sample if unsure, and *never* use more than 1.5 g of combustible material).
+- Do not overcharge the bomb.  The sample should never release more than 8000 calories when burned in oxygen (always start with < 0.7 g of sample if unsure, and *never* use more than 1.5 g of combustible material).
 - Do not overcharge the bomb with too much oxygen (use no more than 30 atm for most samples and 40 atm is absolute maximum).
 - Do not fire the bomb if it is leaking (look for O2 gas bubbles escaping from it).
 - Always ensure the bomb is fully submerged in water during firing.
 
 # General Notes
-- Label ALL samples/containers with:
+- *Label ALL samples/containers with:*
       1. What the sample **composition** is (e.g. 0.5 M Nitric Acid in Water).  Be as descriptive as possible!
       2. The **date** the sample was created.
       3. Your **name**.
